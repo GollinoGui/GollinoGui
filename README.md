@@ -35,7 +35,7 @@ Desenvolvedor Front-end e Mobile • React Native • Firebase • JavaScript �
 ---
 
 📬 **Vamos nos conectar?**  
-- [LinkedIn](https://linkedin.com/in/gollinogui)  
-- [Email](mailto:gollinogui@gmail.com)
+- [LinkedIn]([https://linkedin.com/in/gollinogui](https://www.linkedin.com/in/guilherme-gollino-undefined-42609136b/))  
+- [Email](mailto:gollino.gollino@gmail.com)
 
 ---
