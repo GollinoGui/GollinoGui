@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Guilherme Gollino</h1>
+<h1 align="center">👋] Olá! Eu sou o Guilherme Gollino</h1>
 
 <p align="center">
 Desenvolvedor Front-end e Mobile • React Native • Firebase • JavaScript • C++
@@ -12,7 +12,7 @@ Desenvolvedor Front-end e Mobile • React Native • Firebase • JavaScript �
 
 ---
 
-### 🚀 Tecnologias que domino:
+###  Tecnologias que domino:
 - React Native (Expo e Expo Router)
 - Firebase Functions + Auth
 - JavaScript moderno (ES6+)
@@ -22,7 +22,7 @@ Desenvolvedor Front-end e Mobile • React Native • Firebase • JavaScript �
 
 ---
 
-### 📂 Projetos em Destaque:
+###  Projetos em Destaque:
 
 | Projeto | Descrição |
 |--------|-----------|
