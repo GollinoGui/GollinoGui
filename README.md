@@ -76,26 +76,6 @@
 
 ---
 
-### 🧊 Minhas contribuições em 3D
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GollinoGui/GollinoGui/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%" />
-
-</div>
-
----
-
-### 🎵 Tocando agora no Spotify
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GollinoGui/GollinoGui/spotify/spotify-github-profile.svg" alt="spotify now playing" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=GollinoGui&color=39D353&style=flat-square&label=Visualizações+do+perfil" />
