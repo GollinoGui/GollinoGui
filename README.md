@@ -76,6 +76,16 @@
 
 ---
 
+### 🧊 Minhas contribuições em 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GollinoGui/GollinoGui/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=GollinoGui&color=39D353&style=flat-square&label=Visualizações+do+perfil" />
