@@ -18,9 +18,10 @@
 
 ### 🌱 Atualmente estudando **Spring**, para expandir pro back-end Java.
 
+### 🎓 Formando em **Ciência da Computação** em 2026, curso de **4 anos**, com **300 horas** de atividades complementares. Disciplinas em destaque: **Estrutura de Dados**, **Técnicas de Programação 2** e **Fábrica de Software**.
+
 - 🏢 Freelancer | Projetos próprios
 - 📍 Orlândia
-- 💬 Pergunte-me sobre React Native, Supabase, Firebase, Expo Router e Electron
 
 ---
 
