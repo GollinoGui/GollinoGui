@@ -14,13 +14,13 @@
 
 ## 🎯 Sobre mim
 
-### 👋 Desenvolvedor com foco em soluções reais para o dia a dia — de aplicativos mobile a sistemas de controle e sites institucionais.
+###  Desenvolvedor com foco em soluções reais para o dia a dia — de aplicativos mobile a sistemas de controle e sites institucionais.
 
-### 🚀 Meus projetos vão de apps com geolocalização e envio de imagens no Firebase/Supabase a páginas de e-commerce, layouts em Tailwind e aplicativos desktop feitos com Electron.
+###  Meus projetos vão de apps com geolocalização e envio de imagens no Firebase/Supabase a páginas de e-commerce, layouts em Tailwind e aplicativos desktop feitos com Electron.
 
-### 🌱 Atualmente estudando **Spring**, para expandir pro back-end Java.
+###  Atualmente estudando **Spring**, para expandir pro back-end Java.
 
-### 🎓 Formando em **Ciência da Computação** em 2026, curso de **4 anos**, com **300 horas** de atividades complementares. Disciplinas em destaque: **Estrutura de Dados**, **Técnicas de Programação 2** e **Fábrica de Software**.
+###  Formando em **Ciência da Computação** em 2026, curso de **4 anos**, com **300 horas** de atividades complementares. Disciplinas em destaque: **Estrutura de Dados**, **Técnicas de Programação 2** e **Fábrica de Software**.
 
 - 🏢 Freelancer | Projetos próprios
 - 📍 Orlândia
