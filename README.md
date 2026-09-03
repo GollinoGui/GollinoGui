@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d1117&height=200&section=header&text=Guilherme%20Gollino&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=React+Native+%2B+Expo;Supabase+%2B+Firebase;TypeScript+%2B+JavaScript+moderno;Tailwind%2C+HTML+e+CSS;Electron+para+apps+desktop;Estudando+Spring+agora" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Sobre mim
+##  Sobre mim
 
 ###  Desenvolvedor com foco em soluções reais para o dia a dia — de aplicativos mobile a sistemas de controle e sites institucionais.
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <div align="center">
 
